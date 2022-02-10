@@ -1,0 +1,11 @@
+
+
+
+.white {width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255); }
+
+.brown {display: inline-block;
+        width: 100px;
+        height: 100px;
+        background-color: brown;}
